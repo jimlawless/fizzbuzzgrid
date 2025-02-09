@@ -11,7 +11,7 @@ I took a stab at this using PHP to generate HTML output.  Each square is a DIV w
 
 The rendered output of the PHP script looks like this :
 
-<img src="https://github.com/jimlawless/fizzbuzzgrid/fbg_rendered.png">
+<img src="https://github.com/jimlawless/fizzbuzzgrid/fbg_rendered.png](https://github.com/jimlawless/fizzbuzzgrid/blob/main/fbg_rendered.png">
 
 You can see the live page at:
 
